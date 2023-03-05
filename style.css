@@ -9,16 +9,19 @@ h2,
 h3 
 a {
     color: olive; background-color: blanchedalmond;
+    padding-block: 20px;
 }
 
 .hlavicka,
 .volnycas {
     background-color: beige;
+    padding-block: 20px;
 }
 
 .prace,
 .paticka {
     background-color: blanchedalmond;
+    padding-block: 30px;
 }
 
 .hlavicka img {
